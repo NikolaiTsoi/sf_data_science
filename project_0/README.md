@@ -1,9 +1,9 @@
 # Project 0. Угадываем число
 
 ## Оглавление
-* [Описание проекта] (https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#описание-проекта)
-* [Этапы работы над проектом] (https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#этапы-работы-над-проектом)
-* [Выводы] (https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#выводы)
+* [Описание проекта](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#описание-проекта)
+* [Этапы работы над проектом](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#этапы-работы-над-проектом)
+* [Выводы](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#выводы)
 
 ## Описание проекта
 Необходимо написать программу для нахождения загаданного компьютером числа за минимальное количество попыток 
