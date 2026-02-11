@@ -1,1 +1,6 @@
+# project_0
 numpy==2.3.5
+
+# project_1
+pandas==2.3.3
+seaborn==0.13.2
