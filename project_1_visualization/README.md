@@ -3,17 +3,17 @@
 ## Оглавление
 * [Описание проекта](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#описание-проекта)
 * [Цели и Задачи](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#цель)
-* [9.1. Определяем соотношение ушедших и лояльных клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.1)
-* [9.2. Демонстрация распределения баланса пользователей, у которых на счету больше 2 500 долларов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.2)
-* [9.3. Распределение баланса клиента в разрезе признака оттока. Различия суммы на накопительном счёте ушедших и лояльных клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.3)
-* [9.4. Распределение возраста в разрезе признака оттока.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.4)
-* [9.5. Взаимосвязь кредитного рейтинга клиента и предполагаемой зарплаты.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.5)
-* [9.6. Попытка выявления взаимосвязей по половому признаку.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.6)
-* [9.7. Зависимость оттока клиентов от количества приобретенных у банка услуг.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.7)
-* [9.8. Влияние статуса активного клиента на отток клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.8)
-* [9.9. Доля ушедших клиентов в зависимости от страны.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.9)
-* [9.10. Построение тепловой карты для выявления категорий клиентов, которые уходят чаще всего.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#9.10)
-* [Выводы](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_0#выводы)
+* [9.1. Определяем соотношение ушедших и лояльных клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#91-определяем-соотношение-ушедших-и-лояльных-клиентов)
+* [9.2. Демонстрация распределения баланса пользователей, у которых на счету больше 2 500 долларов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#92-демонстрация-распределения-баланса-пользователей-у-которых-на-счету-больше-2-500-долларов)
+* [9.3. Распределение баланса клиента в разрезе признака оттока. Различия суммы на накопительном счёте ушедших и лояльных клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#93-распределение-баланса-клиента-в-разрезе-признака-оттока-различия-суммы-на-накопительном-счёте-ушедших-и-лояльных-клиентов)
+* [9.4. Распределение возраста в разрезе признака оттока.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#94-распределение-возраста-в-разрезе-признака-оттока)
+* [9.5. Взаимосвязь кредитного рейтинга клиента и предполагаемой зарплаты.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#95-взаимосвязь-кредитного-рейтинга-клиента-и-предполагаемой-зарплаты)
+* [9.6. Попытка выявления взаимосвязей по половому признаку.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#96-попытка-выявления-взаимосвязей-по-половому-признаку)
+* [9.7. Зависимость оттока клиентов от количества приобретенных у банка услуг.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#97-зависимость-оттока-клиентов-от-количества-приобретенных-у-банка-услуг)
+* [9.8. Влияние статуса активного клиента на отток клиентов.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#98-влияние-статуса-активного-клиента-на-отток-клиентов)
+* [9.9. Доля ушедших клиентов в зависимости от страны.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#99-доля-ушедших-клиентов-в-зависимости-от-страны)
+* [9.10. Построение тепловой карты для выявления категорий клиентов, которые уходят чаще всего.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#910-построение-тепловой-карты-для-выявления-категорий-клиентов-которые-уходят-чаще-всего)
+* [Выводы](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_1_visualization#выводы)
 
 ## Описание проекта
 Необходимо проанализировать базу данных банка Х на предмет различий ушедших и лояльных клиентов и связи различных 
