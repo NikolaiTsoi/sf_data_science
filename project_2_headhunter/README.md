@@ -43,6 +43,8 @@
 * Seaborn (v0.13.2)
 * Plotly
 
+Ссылка на датасет: https://drive.google.com/file/d/1-FrV2PM4juwWkCTvWH3aNySM8peRFjxN/view?usp=sharing
+
 ## Этапы работы над проектом:
 
 ## 1. Исследование структуры данных.
