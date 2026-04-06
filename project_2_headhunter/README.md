@@ -45,6 +45,8 @@
 
 Ссылка на датасет: https://drive.google.com/file/d/1-FrV2PM4juwWkCTvWH3aNySM8peRFjxN/view?usp=sharing
 
+Ссылка на папку с HTML-графиками: https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter/plots
+
 ## Этапы работы над проектом:
 
 ## 1. Исследование структуры данных.
