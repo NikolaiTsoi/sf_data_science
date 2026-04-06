@@ -1,12 +1,12 @@
 # <center> Project 2. Анализ резюме из HeadHunter.
 
 ## Оглавление
-* [Описание проекта]()
-* [Цели и Задачи]()
-* [1. Исследование структуры данных.]()
-* [2. Преобразование данных]()
-* [3. Исследование зависимостей в данных]()
-* [4. Очистка данных]()
+* [Описание проекта](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#описание-проекта)
+* [Цели и Задачи](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#цель)
+* [1. Исследование структуры данных.](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#1-исследование-структуры-данных)
+* [2. Преобразование данных](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#2-преобразование-данных)
+* [3. Исследование зависимостей в данных](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#3-исследование-зависимостей-в-данных)
+* [4. Очистка данных](https://github.com/NikolaiTsoi/sf_data_science/tree/main/project_2_headhunter#4-очистка-данных)
 
 ## Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, 
