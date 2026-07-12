@@ -1,0 +1,3 @@
+psycopg2 == 2.9.12 (dt dec pq3 ext lo64)
+pandas == 2.3.3
+requests == 2.32.5
