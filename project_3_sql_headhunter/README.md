@@ -1,13 +1,15 @@
 # <center> Project 2. Анализ резюме из HeadHunter.
 
 ## Оглавление
-* [Описание проекта]()
-* [Цели и Задачи]()
-* [Юнит 3. Предварительный анализ данных]()
-* [Юнит 4. Детальный анализ вакансий]()
-* [Юнит 5. Анализ работодателей]()
-* [Юнит 6. Предметный анализ]()
-* [Общий вывод по результатам анализа вакансий на HH.ru]()
+* [Описание проекта](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B0)
+* [Цели и Задачи](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D1%86%D0%B5%D0%BB%D1%8C)
+* [Юнит 3. Предварительный анализ данных](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D1%8E%D0%BD%D0%B8%D1%82-3-%D0%BF%D1%80%D0%B5%D0%B4%D0%B2%D0%B0%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)
+* [Юнит 4. Детальный анализ вакансий](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D1%8E%D0%BD%D0%B8%D1%82-4-%D0%B4%D0%B5%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9)
+* [Юнит 5. Анализ работодателей](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D1%8E%D0%BD%D0%B8%D1%82-5-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9)
+* [Юнит 6. Предметный анализ](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D1%8E%D0%BD%D0%B8%D1%82-6-%D0%BF%D1%80%D0%B5%D0%B4%D0%BC%D0%B5%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7)
+* [Общий вывод по результатам анализа вакансий на HH.ru](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D0%BE%D0%B1%D1%89%D0%B8%D0%B9-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4-%D0%BF%D0%BE-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%B0%D0%BC-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0-%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B9-%D0%BD%D0%B0-hhru)
+* [ДОПОЛНИТЕЛЬНО](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE)
+* [ИТОГОВЫЙ ВЫВОД](https://github.com/NikolaiTsoi/sf_data_science/blob/main/project_3_sql_headhunter/README.md#%D0%B8%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4)
 
 ## Описание проекта
 Представьте, что вы устроились на работу в кадровое агентство, которое подбирает вакансии для IT-специалистов. 
@@ -237,7 +239,7 @@
 IT-сектор доминирует как по степени активности, так и по объему присутствия на рынке. Для более глубокого анализа 
 может стать проблемой высокий процент отсутствующей информации и неактуальность части записей.
 
-# Юнит 6. Предметный анализ
+## Юнит 6. Предметный анализ
 
 ### 6.1. Сколько вакансий имеет отношение к данным?
 Количество вакансий, имеющих отношение к данным: **1771**
