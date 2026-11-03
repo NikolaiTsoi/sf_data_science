@@ -1,0 +1,3 @@
+Python v3.13.7
+Pandas v2.3.3
+Numpy  v2.3.5
